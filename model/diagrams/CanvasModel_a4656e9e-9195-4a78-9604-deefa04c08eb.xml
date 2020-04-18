@@ -74,9 +74,9 @@
         textPosition="1">
       <bounds
           x="12"
-          y="216"
+          y="180"
           width="203"
-          height="37"/>
+          height="25"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -99,9 +99,9 @@
           type="68"/>
       <bounds
           x="12"
-          y="120"
+          y="108"
           width="203"
-          height="37"/>
+          height="25"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -131,9 +131,22 @@
         textPosition="1">
       <bounds
           x="12"
-          y="168"
+          y="144"
           width="204"
-          height="37"/>
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="48269d81-082c-4409-8b48-fccdaee100bb"
+        fillColor="#ffff95"
+        content="Обмены"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="11"
+          y="216"
+          width="204"
+          height="25"/>
     </children>
   </children>
   <children
@@ -157,12 +170,13 @@
         id="8b48b8e6-5f99-493f-8445-21efe6df1683"
         fillColor="#c6f9f7"
         content="Александра"
+        notes="Программирование&#xD;&#xA;Моделирование&#xD;&#xA;Знания химии бухгалтенрии"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="24"
-          width="193"
+          width="157"
           height="25"/>
     </children>
     <children
@@ -175,20 +189,21 @@
       <bounds
           x="12"
           y="60"
-          width="193"
-          height="30"/>
+          width="157"
+          height="25"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="dc355d4b-78ea-4350-8c9f-baf799e87bed"
         fillColor="#c6f9f7"
         content="Дмитрий"
+        notes="Знания и опыт в спортиыне фитнес клубы&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="96"
-          width="193"
+          width="157"
           height="25"/>
     </children>
     <children
@@ -201,7 +216,7 @@
       <bounds
           x="12"
           y="132"
-          width="193"
+          width="157"
           height="25"/>
     </children>
     <children
@@ -213,7 +228,7 @@
         textPosition="1">
       <bounds
           x="12"
-          y="168"
+          y="204"
           width="75"
           height="25"/>
     </children>
@@ -222,12 +237,13 @@
         id="1e9d8ce9-c3e2-4660-a77a-2e2d2ebb36fa"
         fillColor="#c6f9f7"
         content="Коллеги специалисты"
+        notes="Все области знаний&#xD;&#xA;Иван да Марья...."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
-          y="204"
-          width="193"
+          y="168"
+          width="157"
           height="25"/>
     </children>
   </children>
@@ -259,7 +275,7 @@
           x="12"
           y="48"
           width="205"
-          height="63"/>
+          height="49"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -271,9 +287,9 @@
         textPosition="1">
       <bounds
           x="12"
-          y="120"
+          y="108"
           width="205"
-          height="37"/>
+          height="25"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -285,7 +301,7 @@
         textPosition="1">
       <bounds
           x="12"
-          y="168"
+          y="144"
           width="205"
           height="37"/>
     </children>
@@ -314,7 +330,7 @@
           x="12"
           y="264"
           width="205"
-          height="49"/>
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -325,7 +341,7 @@
         textPosition="1">
       <bounds
           x="12"
-          y="324"
+          y="456"
           width="205"
           height="37"/>
     </children>
@@ -338,9 +354,9 @@
         textPosition="1">
       <bounds
           x="12"
-          y="372"
+          y="360"
           width="205"
-          height="49"/>
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -351,9 +367,36 @@
         textPosition="1">
       <bounds
           x="12"
-          y="432"
+          y="408"
           width="205"
-          height="63"/>
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="a39583f6-3461-4f96-9eb5-54d9e2513d2f"
+        fillColor="#d5ff95"
+        content="Подготовка отчетность"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="312"
+          width="205"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="4ab9fe24-6c72-4022-9a86-04541aa653a2"
+        fillColor="#d5ff95"
+        content="Миграци на новое ПО"
+        notes="с УПП на ЕРП&#xD;&#xA;БП 7.7 на БП8"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="504"
+          width="205"
+          height="37"/>
     </children>
   </children>
   <children
@@ -372,6 +415,19 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="cbbf2d86-d3b5-4d90-a573-8f3c88c463a1"
+        fillColor="#ffa093"
+        content="Скидки на первый проект"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -389,6 +445,60 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="c1687d8b-3f31-4c6c-ba1d-0c912a533894"
+        fillColor="#c6d8fa"
+        content="HH.RU"
+        notes="Дима  с резюме&#xD;&#xA;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="41"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="f32ad2a4-afe7-4963-9991-414c45a2e7d9"
+        fillColor="#c6d8fa"
+        content="Сайт"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="41"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="81ade635-d223-4323-8a72-e58dc499361f"
+        fillColor="#c6d8fa"
+        content="Соцсети"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="120"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="3819a1f9-3295-4558-9801-d3f35078887a"
+        fillColor="#c6d8fa"
+        content="Живые Встречи"
+        notes="Выставки,&#xD;&#xA;Конференции&#xD;&#xA;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="120"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -412,13 +522,12 @@
         fillColor="#eec8fb"
         content="Небольшие фирмы "
         notes="у которых мало денег но есть 1С &#xD;&#xA;до 20 часов в месяц"
-        borderColor="#C0C0C0"
-        textPosition="1">
+        borderColor="#C0C0C0">
       <bounds
           x="12"
-          y="48"
-          width="75"
-          height="63"/>
+          y="168"
+          width="205"
+          height="73"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -426,12 +535,103 @@
         fillColor="#eec8fb"
         content="Крупные компании"
         notes="Крупные проекты (от 1 000 000 )"
+        borderColor="#C0C0C0">
+      <bounds
+          x="12"
+          y="84"
+          width="205"
+          height="73"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="7ff2193b-8e8b-432e-8102-f17281fd8b2c"
+        fillColor="#eec8fb"
+        content="Компании полиграфия"
+        notes="ООО &quot;ПМГ&quot;&#xD;&#xA;Проект полиграфия и перспектива поддержки&#xD;&#xA;Отраслевое готовое решение - масштабируемое."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
-          y="120"
-          width="75"
+          y="48"
+          width="205"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="cec94ed4-e774-450b-9e0b-da57561f58a8"
+        fillColor="#ff00ff"
+        content="УТ, УНФ, Розница"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="192"
+          width="85"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="f536fed2-3969-4875-9db7-111186f9df1d"
+        fillColor="#ff00ff"
+        content="БП, ЗУП"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="192"
+          width="85"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="9f0b9451-7bfe-4fda-a22d-e86a23c477f4"
+        fillColor="#eec8fb"
+        content="ДО, СРМ"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="35"
+          y="408"
+          width="86"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="0e14386c-0de1-499d-ade5-96811fad7e7f"
+        fillColor="#ff00ff"
+        content="УТ, КА, ЕРП, "
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="108"
+          width="85"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e9bf5462-3179-4cf3-886d-154e817ce72d"
+        fillColor="#ff00ff"
+        content="ДО, СРМ"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="108"
+          width="86"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="6fd66e3b-ed66-4a1e-8e39-b78fc381f55b"
+        fillColor="#eec8fb"
+        content="ЕРП Машиностроение, химия, мебель"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="252"
+          width="205"
           height="63"/>
     </children>
   </children>
@@ -451,6 +651,19 @@
         y="588"
         width="570"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="a2ff071d-0cb6-4eeb-9c21-8b3f7177ad21"
+        fillColor="#f7c4c4"
+        content="Деньги -"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -469,6 +682,19 @@
         y="588"
         width="572"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="ab4bfaf7-df6a-46d3-a61b-f96d05ba2228"
+        fillColor="#ffa093"
+        content="Деньги +"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
