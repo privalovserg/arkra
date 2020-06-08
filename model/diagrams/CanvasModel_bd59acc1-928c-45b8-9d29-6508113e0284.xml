@@ -695,6 +695,19 @@
           width="75"
           height="63"/>
     </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="d965eb86-0427-4fb3-a230-e89b77ca9ac8"
+        fillColor="#ffa093"
+        content="Выручка"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
